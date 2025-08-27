@@ -2,3 +2,4 @@ streamlit
 google-cloud-bigquery
 sentence-transformers
 torch
+db-dtypes
